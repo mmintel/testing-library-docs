@@ -37,5 +37,6 @@ sidebar_label: Learning Material
 - [How to Test Asynchronous Methods](https://www.polvara.me/posts/how-to-test-asynchronous-methods/)
   by [Gpx](https://twitter.com/Gpx)
 - [Writing better tests with react-testing-library](https://www.youtube.com/watch?v=O0VxvRqgm7g) by [Billy Mathews](https://twitter.com/BillRMathews)
+- [Seven examples to test your React components with Jest and @testing-library](https://mintel.me/testing-react-components-with-jest-and-testing-library/) by [Marc Mintel](https://github.com/mmintel)
 
 Feel free to contribute more!
